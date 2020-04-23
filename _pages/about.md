@@ -21,5 +21,5 @@ Fast-forward more than a decade. Keanu now seems to get the public adulation tha
 
 ### Recent Updates
 
-- KRAM 2020 schedule just posted! Those interested in receiving email updates should sign up here.
+- KRAM 2020 [schedule](/kram2020/) just posted! Those interested in receiving email updates should sign up here.
 - John Wick Chapter 4 coming May 2021!

@@ -3,20 +3,20 @@ main:
   - title: "KRAM 2020"
     url: /kram2020/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "KRAM Archive"
+    url: /kram_archive/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Great Moments in KRAM"
+    url: /great_moments/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Movies"
+    url: /movies/
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+  - title: "News/Links"
+    url: /links/
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+#    url: /markdown/
