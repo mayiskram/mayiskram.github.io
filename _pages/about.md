@@ -17,6 +17,8 @@ Well before the Keanussaince, a group of friends came to the conclusion that Kea
 
 Fast-forward more than a decade. Keanu now seems to get the public adulation that he deserves, yet that does not diminish the joy of celebrating him each May.
 
+Why Keanu? [I'm so glad you asked!](/posts/why_keanu/)
+
 *Please, come join us on this journey.*
 
 ### Recent Updates
