@@ -85,7 +85,7 @@ author:
   avatar           : "https://upload.wikimedia.org/wikipedia/commons/9/90/Keanu_Reeves_%28crop_and_levels%29_%28cropped%29.jpg" #"profile.png"
   bio              : "Celebrating the best actor for a month each year."
   location         : "Everywhere!"
-  employer         :
+  employer         : "Photo credit: <a href='https://commons.wikimedia.org/wiki/File:Keanu_Reeves_(crop_and_levels)_(cropped).jpg'>Marybel Le Pape</a> <a href='https://creativecommons.org/licenses/by-sa/4.0/legalcode' rel='license'>CC BY-SA 4.0</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mayiskram@gmail.com"
