@@ -21,6 +21,8 @@ Why Keanu? [I'm so glad you asked!](/posts/why_keanu/)
 
 *Please, come join us on this journey.*
 
+KRAM (hugs in Swedish)!
+
 ### Recent Updates
 
 - KRAM 2020 [schedule](/kram2020/) just posted! Those interested in receiving email updates should sign up here.
