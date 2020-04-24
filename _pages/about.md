@@ -11,7 +11,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Well before the Keanussaince, a group of friends came to the conclusion that Keanu Reeves was not being adequately appreciated by the world at-large. So in 2006, they declared that henceforth, the month of May would forever be:
+Well before the Keanussance, a group of friends came to the conclusion that Keanu Reeves was not being adequately appreciated by the world at-large. So in 2006, they declared that henceforth, the month of May would forever be:
 
 # Keanu Reeves Appreciation Month (KRAM)
 
