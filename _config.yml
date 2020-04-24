@@ -79,6 +79,9 @@ analytics:
     anonymize_ip         : false # default
 
 
+#github metadata
+github: [metadata]
+
 # Site Author
 author:
   name             : "May: KRAM"
