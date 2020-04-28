@@ -12,9 +12,18 @@ See [course page](/kram2020/).
 
 
 ## 2019
- - [Chain Reaction](https://www.imdb.com/title/tt0115857/)
+ - Chain Reaction
+ - Destination Wedding
+ - Always be my Maybe
+
+
+## 2018
+ - A Walk in the Clouds
+ - Point Break
 
 <!--- 2016: email from MW to Haley stating no movies watched !--->
+
+
 
 ## 2013
  - Point Break & meatballs subs at the Brooklyner

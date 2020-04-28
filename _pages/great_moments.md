@@ -12,4 +12,4 @@ Here is a listing of some great moments in KRAM history. Please let us know if t
 - May 2011: Point Break shotgun housecooling
 - May 2012: A number of grad students, many of an international persuasion, are first introduced to Point Break just after finals.
 - May 2014: [It's the Most Wonderful Month of the Year song](/great_moments/most_wonderful_month_song/) first composed
-- May 2015: Point Break Grooms Cake
+- May 2015: [Point Break Grooms Cake](/files/pb_grooms_cake.jpeg)
