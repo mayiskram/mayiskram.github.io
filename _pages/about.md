@@ -25,5 +25,5 @@ KRAM (hugs in Swedish)!
 
 ### Recent Updates
 
-- KRAM 2020 [schedule](/kram2020/) just posted! Those interested in receiving email updates should sign up here.
+- KRAM 2020 [schedule](/kram2020/) just posted! Those interested in receiving email updates should sign up [here](https://forms.gle/jDiANRKBkw4vjhqh8).
 - John Wick Chapter 4 coming May 2021!
